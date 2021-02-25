@@ -1,4 +1,4 @@
-//some shit to keep the bot working
+//some stuff to keep the bot working
 const Discord = require('discord.js');
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
